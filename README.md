@@ -97,7 +97,7 @@ Insights:
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Modeling
